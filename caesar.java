@@ -1,3 +1,9 @@
+/*
+ *Author: Ryan Wagner
+ *Email: rkwagner@ucsd.edu
+ *Description: Main driver for caesar cipher challenge.
+ */
+
 import java.util.Scanner;
 
 class caesar{
